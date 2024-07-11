@@ -1,1 +1,1 @@
-# survey-knowledge-graph
+# Knowledge Graphについて調査する
