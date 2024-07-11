@@ -7,6 +7,10 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
+llama-index = "^0.10.54"
+llama-index-readers-wikipedia = "^0.1.4"
+llama-index-graph-stores-nebula = "^0.2.0"
+llama-index-llms-openai = "^0.1.25"
 
 
 [build-system]
